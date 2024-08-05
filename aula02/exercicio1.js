@@ -1,4 +1,7 @@
 
-
-console.log("Executando exercicio 01!!!")
+const tasks = [
+  {  id: 1,
+    title: 'comprar livro'
+  },
+]
 
